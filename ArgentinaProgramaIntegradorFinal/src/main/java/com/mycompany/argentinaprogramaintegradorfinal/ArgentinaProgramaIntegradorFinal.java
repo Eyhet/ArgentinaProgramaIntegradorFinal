@@ -16,6 +16,26 @@ import java.util.List;
  *
  * @author sebim
  */
+
+
+
+
+
+
+
+
+/*Hacer este trabajo Practivo integrador fue muy complicado, tarde muchisimo y al final no consegui lo que buscaba pero aun asi estoy orgulloso de el resultado
+
+Asi no termine aprobando el curso igual estoy orgulloso de haberlo intentado.*/
+
+
+
+
+
+
+
+
+
 public class ArgentinaProgramaIntegradorFinal {
 
     public static void main(String[] args) throws FileNotFoundException, IOException {
