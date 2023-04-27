@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.argentinaprogramaintegradorfinal.TorneoTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.037 s <<< FAILURE! - in com.mycompany.argentinaprogramaintegradorfinal.TorneoTest
+testTorneo  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "java.util.List.iterator()" because "ronda" is null
+	at com.mycompany.argentinaprogramaintegradorfinal.TorneoTest.testTorneo(TorneoTest.java:56)
+

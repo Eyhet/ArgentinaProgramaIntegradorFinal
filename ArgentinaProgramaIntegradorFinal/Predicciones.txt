@@ -1,0 +1,37 @@
+Jugador: Matias
+
+Ronda: 1
+
+Independiente
+Racing
+DyJ
+AtleticoTucuman
+Venezuela
+Argentina
+
+Ronda: 2
+
+ManchesterCity
+Chelsea
+Arsenal
+Bayern
+Brasil
+
+Jugador: Sebastian
+
+Ronda 1:
+
+Belgrano
+Racing
+River
+Boca
+Venezuela
+Bolivia
+
+Ronda 2:
+
+ManchesterCity
+Leeds
+Arsenal
+PSG
+Paraguay

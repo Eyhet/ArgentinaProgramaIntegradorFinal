@@ -1,0 +1,36 @@
+Ronda: 1
+
+Independiente
+Belgrano
+
+Racing
+Gimnasia
+
+DyJ
+River
+
+AtleticoTucuman
+Boca
+
+Venezuela
+Ecuador
+
+Argentina
+Bolivia
+
+Ronda: 2
+
+ManchesterCity
+ManchesterUnited
+
+Leeds
+Chelsea
+
+Frankfurt
+Arsenal
+
+Bayern
+PSG
+
+Paraguay
+Brasil
